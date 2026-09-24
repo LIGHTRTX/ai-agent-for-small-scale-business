@@ -1,0 +1,7 @@
+company_name,website,email,phone,industry,city,state,source,status,discovered_at
+Northstar Lawn Co.,https://northstar.example,hello@northstar.example,555-0101,Landscaping,Austin,TX,demo,new,2026-09-20T10:00:00+00:00
+Cedar & Stone Realty,https://cedarstone.example,team@cedarstone.example,555-0102,Real Estate,Denver,CO,demo,new,2026-09-20T10:05:00+00:00
+Brightline Dental Studio,https://brightline.example,care@brightline.example,555-0103,Dental,Phoenix,AZ,demo,contacted,2026-09-20T10:10:00+00:00
+Harbor Legal Group,https://harborlegal.example,office@harborlegal.example,555-0104,Legal,Charlotte,NC,demo,qualified,2026-09-20T10:15:00+00:00
+Summit Build Partners,https://summitbuild.example,hello@summitbuild.example,555-0105,Construction,Nashville,TN,demo,new,2026-09-20T10:20:00+00:00
+Maple Route Logistics,https://mapleroute.example,dispatch@mapleroute.example,555-0106,Logistics,Toronto,ON,demo,converted,2026-09-20T10:25:00+00:00
